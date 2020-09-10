@@ -27,3 +27,7 @@ Araad Shams
 # Important Folders
 Arduino Files contains the Hub and Individual device files  
 Home Control contains all of the app code and information
+
+
+# Devpost
+https://devpost.com/software/the-smarter-home
