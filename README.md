@@ -29,5 +29,8 @@ Arduino Files contains the Hub and Individual device files
 Home Control contains all of the app code and information
 
 
-# Devpost
+# Devpost - Project Link
 https://devpost.com/software/the-smarter-home
+
+# Images
+![All Devices Created](Images/AllDevices.jpg)
